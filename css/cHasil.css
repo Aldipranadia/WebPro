@@ -1,0 +1,32 @@
+body{
+	margin: 0 auto;
+	background-image: url("../image/desk.jpg");
+	background-repeat: no repeat;
+	background-size: 100% 720px;
+	font:1em/1.5 sans-serif;
+}
+
+.container{
+	width: 500px;
+	height: 400px;
+	text-align: center;
+	background-color: rgba(52, 73, 94, 0.7);
+	border-radius: 20px;
+	margin: 20 auto;
+	margin-bottom: 50px;
+	margin-top: 120px;
+}
+
+h1{
+	margin-top: 20px;
+	text-align: center;
+	font-size: 40px;
+	color: #3b3b3b;
+	letter-spacing:-1px;
+	text-shadow: 1px 1px 5px white;
+	text-decoration: underline;
+}
+
+b{
+	color: white;
+}
